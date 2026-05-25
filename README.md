@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-you-remain/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Only You Remain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-you-remain/) |
+| **Get License** | [Obtain a Music License for Only You Remain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-you-remain/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The neon sign is buzzing, but the world outside is gone
+> It’s just the two of us here with the radio left on
+> I feel your midnight whisper pull me closer to the flame
+> When all the dust has settled, only you remain
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
